@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_AVAILABLE CHANNELS</name>
+   <tag></tag>
+   <elementGuidId>098bd8f8-864b-4b38-be34-005dfb53dbd9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='#available-channels']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>602782b5-d0fc-49d6-b4bb-5efd3fc84bb3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#available-channels</value>
+      <webElementGuid>c139962c-7462-4fd6-a325-5a17f4730cab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>#available-channels</value>
+      <webElementGuid>c257cce7-5c39-4a1e-a16a-4a086afc8a3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>AVAILABLE CHANNELS</value>
+      <webElementGuid>e45be217-5206-4337-9b8c-6db15919e8e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ui-id-5&quot;)/a[@id=&quot;#available-channels&quot;]</value>
+      <webElementGuid>d7301df9-e784-46da-b108-03c17754a8eb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='#available-channels']</value>
+      <webElementGuid>b2ede6bf-51d1-440c-9b10-22087f7c6919</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//h4[@id='ui-id-5']/a</value>
+      <webElementGuid>400fa624-8fa3-4aa6-b5c5-3c0afd9da624</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'AVAILABLE CHANNELS')]</value>
+      <webElementGuid>1be55c61-fa25-4d36-8388-75f9c72974a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Domiciliary Account'])[1]/following::a[1]</value>
+      <webElementGuid>d59a61e8-27c3-4f48-90d7-b6662c50b116</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Two independent and satisfactory references'])[1]/following::a[2]</value>
+      <webElementGuid>e9709665-7102-40c6-95f9-630c042fd084</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*966# EazyBanking'])[3]/preceding::a[1]</value>
+      <webElementGuid>99f0f418-a66e-4309-8392-8d0eeed457e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zenith Internet Banking'])[1]/preceding::a[1]</value>
+      <webElementGuid>6e68faf4-01f3-4976-b500-edfe37996e31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='AVAILABLE CHANNELS']/parent::*</value>
+      <webElementGuid>cebaa643-7434-46a6-8b12-e99c4d97ffc8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#available-channels')]</value>
+      <webElementGuid>2ecf2dae-1bad-4062-8569-92b31eb23c37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/h4/a</value>
+      <webElementGuid>2d23be12-9609-487d-844e-f895e9988daf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#available-channels' and @id = '#available-channels' and (text() = 'AVAILABLE CHANNELS' or . = 'AVAILABLE CHANNELS')]</value>
+      <webElementGuid>8a5e84f0-3b7b-4b42-9f81-e03cb1da5b6f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

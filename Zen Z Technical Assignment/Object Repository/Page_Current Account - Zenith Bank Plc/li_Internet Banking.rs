@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Internet Banking</name>
+   <tag></tag>
+   <elementGuidId>67a25978-7667-4f16-877e-8857818dda42</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ui-id-2']/section/div/div/div/ul/li[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>336c1285-7363-48cb-8f26-1d47369b3f8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Internet Banking</value>
+      <webElementGuid>c8ae37bd-91f9-4954-8841-ff8d1ce27ab8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ui-id-2&quot;)/section[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;cpb_content_element col-sm-12 cpb_text_column&quot;]/div[@class=&quot;cpb-asset-content&quot;]/ul[1]/li[2]</value>
+      <webElementGuid>053fb169-494e-4201-95c4-c0bf7944559d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ui-id-2']/section/div/div/div/ul/li[2]</value>
+      <webElementGuid>96e00fba-1c19-4741-b627-b9a623849ff9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zero account opening balance'])[1]/following::li[1]</value>
+      <webElementGuid>61d0e351-96cb-458e-ba15-0324931f3598</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FEATURES AND BENEFITS'])[1]/following::li[2]</value>
+      <webElementGuid>a223f54b-2427-4be8-aac3-b53b2e09b850</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zenith Mobile Banking app'])[1]/preceding::li[1]</value>
+      <webElementGuid>d33c5432-ec3e-48de-af4f-b223984e7262</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*966# Eazybanking'])[1]/preceding::li[2]</value>
+      <webElementGuid>c2edf8cf-8a96-4d3e-acba-9f3b9521bbb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/ul/li[2]</value>
+      <webElementGuid>e41acdcb-64a7-4915-b383-3f2956dcebf2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Internet Banking' or . = 'Internet Banking')]</value>
+      <webElementGuid>dbdb2b96-9322-48c4-8251-16dba7dcc6bd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

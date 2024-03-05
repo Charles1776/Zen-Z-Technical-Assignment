@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Continue</name>
+   <tag></tag>
+   <elementGuidId>edaee8d7-92c6-4503-a2d4-f5d694552e85</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;continue-button&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>contains</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;continue-button&quot;]</value>
+      <webElementGuid>ec418511-c0e7-46f1-bb1c-5fb0214d9aca</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

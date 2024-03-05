@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_FEATURES AND BENEFITS</name>
+   <tag></tag>
+   <elementGuidId>00a7ace2-9a4d-48ad-a21d-49b2c1f41464</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='#features-and-benefits']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>fe899d31-f684-4895-9ec2-4cc8d4f746d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#features-and-benefits</value>
+      <webElementGuid>a61dd8da-063e-43b2-b788-410e5d43c862</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>#features-and-benefits</value>
+      <webElementGuid>0e4e518f-1964-402f-a020-16c2727c3725</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>FEATURES AND BENEFITS</value>
+      <webElementGuid>32e1a822-7a28-4b89-a4e3-debbfe4c7075</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ui-id-1&quot;)/a[@id=&quot;#features-and-benefits&quot;]</value>
+      <webElementGuid>8d20a59d-a827-460b-b79b-1d376e794795</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='#features-and-benefits']</value>
+      <webElementGuid>bdce6700-8174-44e0-a3bc-70dd83ff8fed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//h4[@id='ui-id-1']/a</value>
+      <webElementGuid>25076198-a32c-4980-a7ea-fa2d0cf1dbd8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'FEATURES AND BENEFITS')]</value>
+      <webElementGuid>00101a32-83c4-43ac-9f2b-4c3e33daf076</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DOWNLOAD ACCOUNT FORM'])[1]/following::a[1]</value>
+      <webElementGuid>9d0c12bf-b0dd-4173-8b40-48fd2751bd03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OPEN ACCOUNT ONLINE'])[1]/following::a[2]</value>
+      <webElementGuid>f1c2212c-f954-4046-a331-7fea4f5a3961</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zero account opening balance'])[1]/preceding::a[1]</value>
+      <webElementGuid>262be40b-ceee-4165-bb1b-4d48658402c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Internet Banking'])[5]/preceding::a[1]</value>
+      <webElementGuid>056d25df-89aa-464d-9103-6c04da47112d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='FEATURES AND BENEFITS']/parent::*</value>
+      <webElementGuid>1645d61b-bbfd-4f5d-b28e-884b50c55f93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#features-and-benefits')]</value>
+      <webElementGuid>e2c94abe-b87a-403d-b786-14b631cc297c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h4/a</value>
+      <webElementGuid>e156418b-413d-4c7c-9564-89658c21a91c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#features-and-benefits' and @id = '#features-and-benefits' and (text() = 'FEATURES AND BENEFITS' or . = 'FEATURES AND BENEFITS')]</value>
+      <webElementGuid>15e403f8-09e9-405b-b1d5-20bf40101724</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
